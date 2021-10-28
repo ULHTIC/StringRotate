@@ -1,7 +1,5 @@
 **UNIVERSIDADE LUSÓFONA DE HUMANIDADES E TECNOLOGIAS**
 
-# StringRotate
-
 # Exercício #4 - StringRotate
 
 Na resolução deste trabalho deve ser utilizada a Linguagem de Programação C. Para além da correta implementação dos requisitos, tenha em conta os seguintes aspetos:
